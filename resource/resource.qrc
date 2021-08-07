@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/">
+        <file>battery_full.png</file>
+        <file>NOTFCard.png</file>
+        <file>alert.png</file>
+        <file>back.png</file>
+        <file>battery_0.png</file>
+        <file>battery_1.png</file>
+        <file>battery_2.png</file>
+        <file>battery_charging.png</file>
+        <file>battery_info.png</file>
+        <file>battery_low.png</file>
+        <file>battery_normal.png</file>
+        <file>CAM_disconect.png</file>
+        <file>CAM_invalid.png</file>
+        <file>CAM_ready.png</file>
+        <file>camera.png</file>
+        <file>capsule.png</file>
+        <file>capsule_blue.png</file>
+        <file>capsule_green.png</file>
+        <file>capsule_info.png</file>
+        <file>capsule_org.png</file>
+        <file>circle.png</file>
+        <file>downloaded.png</file>
+        <file>end_yellow.png</file>
+        <file>frame.png</file>
+        <file>frame_selected.png</file>
+        <file>id.png</file>
+        <file>information.png</file>
+        <file>jpegfileB.jpg</file>
+        <file>name.png</file>
+        <file>OK_Menu.png</file>
+        <file>play.png</file>
+        <file>REC.png</file>
+        <file>resource.qrc</file>
+        <file>selectAll_Chi_simple.png</file>
+        <file>selectAll_Eng_simple.png</file>
+        <file>sex.png</file>
+        <file>shutdown.png</file>
+        <file>storage.png</file>
+        <file>TFCard.png</file>
+        <file>tick.png</file>
+        <file>video.png</file>
+        <file>wifi_connected.png</file>
+        <file>wifi_idle.png</file>
+    </qresource>
+</RCC>
